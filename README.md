@@ -1,5 +1,5 @@
 # ML-Scope1
-This repository reflects my contribution made towards constant practice in Machine Learning. In order to be handy in the basic idea of model building, small time /simple datasets are taken into consideration.
+This repository reflects my contribution made towards constant practice in Machine Learning. In order to be handy in the basic idea of model building, small time /simple datasets are taken into consideration and modeled.
 
 ## Abstract
 
